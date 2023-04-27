@@ -1,0 +1,5 @@
+std = "roblox"
+
+[lints]
+# _G is used for React development mode flag.
+global_usage = "allow"
