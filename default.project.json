@@ -1,6 +1,18 @@
 {
 	"name": "cloud-ui",
 	"tree": {
-		"$className": "DataModel"
+		"$className": "DataModel",
+		
+		"ReplicatedStorage": {
+			"$path": "ReplicatedStorage",
+
+			"Packages": {
+				"$path": "Packages",
+
+				"CloudUI": {
+					"$path": "src"
+				}
+			}
+		}
 	}
 }
